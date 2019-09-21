@@ -10,7 +10,7 @@ puts phrase
 puts phrase
 puts phrase
 puts phrase
-puts phrase
+return phrase
 end
 
 say_hello_10_times
